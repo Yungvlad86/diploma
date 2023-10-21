@@ -1,2 +1,2 @@
-# diploma "Ботанический Сад"
+# diploma "Сайт Ботанического Сада"
 Diploma (Gerasimov_VV)
