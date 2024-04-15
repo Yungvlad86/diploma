@@ -12,4 +12,6 @@ Diploma (Gerasimov_VV)
 - [Пояснительная модель]()
 - [BPMN диаграмма]()
 - [Прототип UI +]()
-- [Реферат](https://github.com/Yungvlad86/diploma/blob/main/%D0%A0%D0%B5%D1%84%D0%B5%D1%80%D0%B0%D1%82.docx)
+- [Реферат +](https://github.com/Yungvlad86/diploma/blob/main/%D0%A0%D0%B5%D1%84%D0%B5%D1%80%D0%B0%D1%82.docx)
+
+- [Google Disk](https://drive.google.com/drive/u/2/folders/0AGMyEA-rPPgwUk9PVA)
